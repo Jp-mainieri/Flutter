@@ -7,13 +7,13 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
+  // Este widget é a raiz da sua aplicação.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        // This is the theme of your application.
+        // Este é o tema da sua aplicação.
         //
         // TRY THIS: Try running your application with "flutter run". You'll see
         // the application has a purple toolbar. Then, without quitting the app,
